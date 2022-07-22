@@ -1,5 +1,8 @@
 # Lighter-VM
 really basic x86 16-bit virtual machine
+<br>
+we all need some swag in the world, right Gandalf?
+
 
 <h1>What?</h1>
 <p>This virtual machine was made for educational purpouses only, never for real emulation use.</p>
